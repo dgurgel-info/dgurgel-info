@@ -16,7 +16,7 @@
 
 ## 📌 Sobre Mim & O Canal
 
-Seja muito bem-vindo(a) ao meu GitHub! Sou entusiasta e profissional de tecnologia, criador do canal **[dgurgel-info](https://www.youtube.com/@dgurgel-info)** no YouTube. 
+Entusiasta e profissional de tecnologia, criador do canal **[dgurgel-info](https://www.youtube.com/@dgurgel-info)** no YouTube. 
 
 Meu foco é descomplicar a tecnologia, trazendo tutoriais objetivos, testes reais de ferramentas e aplicações práticas de inteligência artificial no dia a dia. Aqui você encontra os repositórios, códigos e projetos demonstrados nos vídeos.
 
