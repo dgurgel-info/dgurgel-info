@@ -40,17 +40,6 @@ Meu foco é descomplicar a tecnologia, trazendo tutoriais objetivos, testes reai
 
 ---
 
-## 🚀 Repositórios em Destaque
-
-- 🧠 **[ai-hermes-agent-masterclass](https://github.com/dgurgel-info/ai-hermes-agent-masterclass)**:
-  - Repositório oficial com o conteúdo prático da masterclass de **Hermes Agent**.
-  - Abrange desde o modelo mental de agentes, arquitetura, habilidades executáveis (POPs), ferramentas, browser-use até coordenação e subagentes.
-- 🎙️ **[ai-colab-matracastudio](https://github.com/dgurgel-info/ai-colab-matracastudio)**:
-  - Ambiente e notebook de integração do **Matraca Studio** no Google Colab.
-  - Ferramenta para fluxos de processamento e experimentos de áudio/voz com suporte a GPU em nuvem.
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
