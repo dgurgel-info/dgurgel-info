@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Olá, eu sou o Daniel Gurgel!
-### Criador de Conteúdo no canal [@dgurgel-info](https://www.youtube.com/@gugas-ai) 🚀
+### Criador de Conteúdo no canal [@gugas-ai](https://www.youtube.com/@gugas-ai) 🚀
 
 <p align="center">
   <b>💻 Tecnologia de forma simples, prática e direta!</b>
