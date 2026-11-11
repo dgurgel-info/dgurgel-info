@@ -1,14 +1,14 @@
 <div align="center">
 
 # 👋 Olá, eu sou o Daniel Gurgel!
-### Criador de Conteúdo no canal [@dgurgel-info](https://www.youtube.com/@dgurgel-info) 🚀
+### Criador de Conteúdo no canal [@dgurgel-info](https://www.youtube.com/@gugas-ai) 🚀
 
 <p align="center">
   <b>💻 Tecnologia de forma simples, prática e direta!</b>
 </p>
 
-[![YouTube](https://img.shields.io/badge/YouTube-@dgurgel--info-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dgurgel-info)
-[![GitHub](https://img.shields.io/badge/GitHub-dgurgel--info-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dgurgel-info)
+[![YouTube](https://img.shields.io/badge/YouTube-@gugas--ai-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gugas--ai)
+[![GitHub](https://img.shields.io/badge/GitHub-@gugas--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/@gugas--ai)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## 📌 Sobre Mim & O Canal
 
-Entusiasta e profissional de tecnologia, criador do canal **[dgurgel-info](https://www.youtube.com/@dgurgel-info)** no YouTube. 
+Entusiasta e profissional de tecnologia, criador do canal **[gugas_ai](https://www.youtube.com/@gugas-ai)** no YouTube. 
 
 Meu foco é descomplicar a tecnologia, trazendo tutoriais objetivos, testes reais de ferramentas e aplicações práticas de inteligência artificial no dia a dia. Aqui você encontra os repositórios, códigos e projetos demonstrados nos vídeos.
 
@@ -59,7 +59,7 @@ Meu foco é descomplicar a tecnologia, trazendo tutoriais objetivos, testes reai
 
 Inscreva-se e acompanhe os tutoriais, testes práticos e novidades:
 
-👉 **[youtube.com/@dgurgel-info](https://www.youtube.com/@dgurgel-info)**
+👉 **[youtube.com/@dgurgel-info](https://www.youtube.com/@gugas-ai)**
 
 <br />
 
