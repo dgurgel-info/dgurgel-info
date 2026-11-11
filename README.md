@@ -16,7 +16,7 @@
 
 ## 📌 Sobre Mim & O Canal
 
-Entusiasta e profissional de tecnologia, criador do canal **[gugas_ai](https://www.youtube.com/@gugas-ai)** no YouTube. 
+Entusiasta e profissional de tecnologia, criador do canal **[gugas-ai](https://www.youtube.com/@gugas-ai)** no YouTube. 
 
 Meu foco é descomplicar a tecnologia, trazendo tutoriais objetivos, testes reais de ferramentas e aplicações práticas de inteligência artificial no dia a dia. Aqui você encontra os repositórios, códigos e projetos demonstrados nos vídeos.
 
@@ -59,7 +59,7 @@ Meu foco é descomplicar a tecnologia, trazendo tutoriais objetivos, testes reai
 
 Inscreva-se e acompanhe os tutoriais, testes práticos e novidades:
 
-👉 **[youtube.com/@dgurgel-info](https://www.youtube.com/@gugas-ai)**
+👉 **[youtube.com/@gugas-ai](https://www.youtube.com/@gugas-ai)**
 
 <br />
 
