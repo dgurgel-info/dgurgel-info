@@ -8,7 +8,6 @@
 </p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-@gugas--ai-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gugas-ai)
-[![GitHub](https://img.shields.io/badge/GitHub-@gugas--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/@dgurgel-info)
 
 ---
 
